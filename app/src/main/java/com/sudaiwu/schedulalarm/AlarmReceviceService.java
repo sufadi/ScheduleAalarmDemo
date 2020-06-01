@@ -154,7 +154,6 @@ public class AlarmReceviceService extends Service {
             showInfo();
         }
 
-
         mAlarmManager.setExact(AlarmManager.RTC, millis, TAG, mCustomTimeListener, null);
     }
 
