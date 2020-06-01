@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScheduleAlarmDemo</string>
+
+    <string name="normal_settings_time_title">"Time opening"</string>
+    <string name="normal_settings_time_start_title">"Start"</string>
+    <string name="normal_settings_time_end_title">"End"</string>
+    <string name="normal_settings_time_dialog_title">"Set time"</string>
+    <string name="normal_settings_time_dialog_tip">"The start time can\'t be the same as the end time"</string>
+    <string name="next_alarm_time">"Next alarm time："</string>
+</resources>

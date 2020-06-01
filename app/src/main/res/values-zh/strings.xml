@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">时间选择器</string>
+    <string name="normal_settings_time_title">"定时开启"</string>
+    <string name="normal_settings_time_start_title">"开始"</string>
+    <string name="normal_settings_time_end_title">"结束"</string>
+    <string name="normal_settings_time_dialog_title">"设置时间"</string>
+    <string name="normal_settings_time_dialog_tip">"开始时间不能与结束时间相同"</string>
+    <string name="next_alarm_time">"下一次定时到来时间："</string>
+</resources>
